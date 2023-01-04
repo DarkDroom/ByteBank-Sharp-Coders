@@ -1,0 +1,15 @@
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\ByteBanck.csproj.AssemblyReference.cache
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\ByteBanck.GeneratedMSBuildEditorConfig.editorconfig
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\ByteBanck.AssemblyInfoInputs.cache
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\ByteBanck.AssemblyInfo.cs
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\ByteBanck.csproj.CoreCompileInputs.cache
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\bin\Debug\net6.0\ByteBanck.exe
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\bin\Debug\net6.0\ByteBanck.deps.json
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\bin\Debug\net6.0\ByteBanck.runtimeconfig.json
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\bin\Debug\net6.0\ByteBanck.dll
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\bin\Debug\net6.0\ByteBanck.pdb
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\ByteBanck.dll
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\refint\ByteBanck.dll
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\ByteBanck.pdb
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\ByteBanck.genruntimeconfig.cache
+C:\IMÃ\Sharp Code\ByteBanck\ByteBanck\obj\Debug\net6.0\ref\ByteBanck.dll
